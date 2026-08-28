@@ -17,6 +17,10 @@ as page icons on the internal wiki.
 | `logos/mari.png` | Foundry Mari 7.5v2 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/mari.png |
 | `logos/substance-3d-painter.png` | Adobe Substance 3D Painter 12.1.2 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/substance-3d-painter.png |
 | `logos/substance-3d-designer.png` | Adobe Substance 3D Designer 16.0.4 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/substance-3d-designer.png |
+| `logos/maya.png` | Autodesk Maya 2027 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/maya.png |
+
+Maya's Commons file is a 635x157 wordmark, which letterboxes badly as an icon, so
+the application icon is used instead.
 
 Houdini is not here. Its icon comes from Wikimedia Commons, which already has
 one: `upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png`. Check
