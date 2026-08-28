@@ -18,9 +18,22 @@ as page icons on the internal wiki.
 | `logos/substance-3d-painter.png` | Adobe Substance 3D Painter 12.1.2 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/substance-3d-painter.png |
 | `logos/substance-3d-designer.png` | Adobe Substance 3D Designer 16.0.4 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/substance-3d-designer.png |
 | `logos/maya.png` | Autodesk Maya 2027 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/maya.png |
+| `logos/nuke.png` | Foundry Nuke 17.1v1 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/nuke.png |
+| `logos/zbrush.png` | Maxon ZBrush 2026 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/zbrush.png |
 
 Maya's Commons file is a 635x157 wordmark, which letterboxes badly as an icon, so
 the application icon is used instead.
+
+## Sourced from Wikimedia instead
+
+These already have a square icon on Commons, so they are linked directly and are
+not duplicated here.
+
+| Application | Icon URL |
+|---|---|
+| SideFX Houdini | https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png |
+| Adobe Photoshop | https://upload.wikimedia.org/wikipedia/commons/3/30/Adobe_Photoshop_CC_2026_icon.svg |
+| Adobe Illustrator | https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg |
 
 Houdini is not here. Its icon comes from Wikimedia Commons, which already has
 one: `upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png`. Check
