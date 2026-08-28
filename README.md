@@ -20,9 +20,16 @@ as page icons on the internal wiki.
 | `logos/maya.png` | Autodesk Maya 2027 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/maya.png |
 | `logos/nuke.png` | Foundry Nuke 17.1v1 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/nuke.png |
 | `logos/zbrush.png` | Maxon ZBrush 2026 | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/zbrush.png |
+| `logos/unreal-engine.png` | Unreal Engine | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/unreal-engine.png |
+| `logos/marmoset-toolbag.png` | Marmoset Toolbag | https://raw.githubusercontent.com/rgscicchitano/wiki-assets/main/logos/marmoset-toolbag.png |
 
 Maya's Commons file is a 635x157 wordmark, which letterboxes badly as an icon, so
 the application icon is used instead.
+
+Unreal Engine and Marmoset are not installed here, so those two came from the
+vendors' own site icons rather than an install. Both are black artwork on
+transparent, which disappears in Notion's dark mode, so each sits on a white
+plate. That matches how Epic ships its own apple-touch-icon.
 
 ## Sourced from Wikimedia instead
 
